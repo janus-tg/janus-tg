@@ -5,8 +5,8 @@ Welcome!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on -->
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on making C++ projects
+- 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on any startup ideas or software projects especially in Data Science or ML
 - 😄 Pronouns: he/him
 <!--- ⚡ Fun fact: ...-->
