@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: he/him
 <!--- ⚡ Fun fact: ...-->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=janus-tg&count_private=true&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=janus-tg&count_private=true&show_icons=true&theme=onedark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janus-tg&layout=compact&count_private=true&theme=tokyonight)
 
